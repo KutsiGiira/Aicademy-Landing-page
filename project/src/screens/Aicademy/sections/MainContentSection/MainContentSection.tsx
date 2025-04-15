@@ -28,7 +28,7 @@ export const MainContentSection = (): JSX.Element => {
             </h2>
 
             {/* CTA Button */}
-            <Button className="w-[352px] h-[50px] bg-[#8958fe] rounded-[10px] font-['Poppins',Helvetica] font-semibold text-white text-sm">
+            <Button className="w-[322px] h-[50px] bg-[#8958fe] rounded-[10px] font-['Poppins',Helvetica] font-semibold text-white text-base">
               Book a Demo
             </Button>
           </CardContent>
